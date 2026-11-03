@@ -1,0 +1,2 @@
+# Week-5-Model-Evaluation-and-Reporting-Strategy-for-Agricultural-Yield-Prediction
+This project develops a model evaluation framework for agricultural yield prediction using MAE, RMSE, R², MAPE and prediction bias. It includes worked numerical examples, baseline comparisons, evaluation charts, validation strategies, stakeholder reporting. It also addresses model limitations, reliability, reproducibility and future improvements.
